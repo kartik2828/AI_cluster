@@ -76,21 +76,6 @@
 
 ---
 
-### Timeline Table: Overview of Video Content Flow
-
-| Time Range        | Topic Covered                                                                                          |
-|-------------------|------------------------------------------------------------------------------------------------------|
-| 00:00:00–00:02:20 | Introduction to LangChain playlist and new YouTube feature (audio dubbing).                          |
-| 00:02:20–00:07:40 | Recap of LangChain fundamentals, intro to RAG applications, and their importance.                     |
-| 00:07:40–00:11:30 | Overview of key RAG components; focus on Document Loaders.                                            |
-| 00:11:30–00:22:50 | Detailed explanation and code demo of Text Loader.                                                   |
-| 00:22:50–00:28:10 | PyPDF Loader introduction, features, limitations, and code demonstration.                             |
-| 00:28:10–00:35:55 | Directory Loader for loading multiple PDFs/texts; demo with large data; discussion on performance.   |
-| 00:35:55–00:41:20 | Load vs Lazy Load explained with code examples and performance implications.                          |
-| 00:41:20–00:47:30 | WebBase Loader explanation, code demo for extracting webpage content, and practical project ideas.   |
-| 00:47:30–00:53:30 | CSV Loader introduction, use cases, and code demonstration.                                           |
-| 00:53:30–00:57:00 | Overview of other loaders, categorization, and advice on selective learning; introduction to custom loaders. |
-
 ---
 
 ### Important Definitions and Concepts
@@ -116,11 +101,3 @@
 - Building RAG applications incrementally by mastering components (starting with document loaders) is more effective than trying to build a full system immediately.
 
 ---
-
-### Closing Remarks
-
-The video concludes by encouraging viewers to practice with the four key document loaders introduced (Text, PyPDF, Directory, CSV) and to explore additional loaders as needed for specific projects. The creator highlights the flexibility and extensibility of LangChain, especially the ability to build custom loaders when existing ones do not fit the use case.
-
----
-
-**Overall, this video serves as a comprehensive introductory guide to Document Loaders in LangChain, establishing a strong foundation for subsequent lessons on Text Splitters, Vector Databases, Retrievers, and ultimately complete RAG applications.**
