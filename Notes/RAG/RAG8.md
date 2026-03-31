@@ -126,23 +126,4 @@ This section explores **Corrective RAG (C-RAG)**, an advanced variant of the tra
 
 ---
 
-### Keywords
-
-- **RAG (Retrieval-Augmented Generation)**
-- **Corrective RAG (C-RAG)**
-- **Retrieval Evaluation**
-- **Knowledge Refinement**
-- **Query Rewriting**
-- **Web Search Integration**
-- **Vector Database**
-- **Semantic Search**
-- **LangGraph**
-- **Large Language Models (LLM)**
-- **T5 Transformer**
-- **OpenAI API**
-- **Thresholding**
-- **Hallucination**
-- **Information Retrieval**
-
----
 
